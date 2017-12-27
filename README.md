@@ -7,7 +7,7 @@ Translating RNA into Protein;
 Introduction to Random Strings;		
 Overlap Graphs;	
 Mortal Fibonacci Rabbits;		
-Construct the Burrows-Wheeler Transform of a String;		
+Construct the Burrows-Wheeler Transform of a String;
 Generate the Last-to-First Mapping of a String;	
 Implement BWMatching;
 Implement BetterBWMatching;	
